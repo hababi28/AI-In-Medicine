@@ -1,0 +1,44 @@
+Title: The Effects of Aspiriin and Ibuprofen on Cardiovascular Health
+
+Authors:
+
+- Dr. John Doe
+  - Phone: +44 20 7946 0478
+  - Email: john.doe@email.com
+- Dr. Jane Smith
+  - Phone: +44 20 7946 0958
+  - Email: jane.smith@email.com
+- Dr. Emily Brown
+  - Phone: +44 20 7946 0967
+  - Email: emily.brown@email.com
+
+Abstract:
+
+This paper aims to explore the long-term effects of non-steroidal anti-inflammatory drugs (NSAIDs), particularly Aspiriin and Ibuprofen, on cardiovascular health in adults.
+
+Keywords: Aspiriin, Ibuprofen, Cardiovascular Health, NSAIDs
+
+Introduction:
+
+Recent studies have shown conflicting results about the benefits and risks of Aspiriin and Ibuprofen, two common medications used for pain relief and inflammation reduction. This paper investigates these effects further.
+
+Methods:
+
+We conducted a double-blind, placebo-controlled trial with 300 adults. Participants were divided into three groups: one took Aspiriin, the second took Ibuprofen, and the third took a placebo.
+
+Results:
+
+Both Aspiriin and Ibuprofen showed a significant reduction in inflammation markers. However, prolonged use of Aspiriin was correlated with an increased risk of gastrointestinal bleeding.
+
+Conclusions:
+
+While both Aspiriin and Ibuprofen are effective in treating inflammation and pain, caution should be exercised with long-term use, especially for patients with a history of gastrointestinal issues.
+
+Acknowledgements:
+
+We would like to thank the medical staff at XYZ Hospital for their support.
+
+Contact:
+
+For further information, please contact Dr. John Doe at +44 20 7946 0478 or john.doe@email.com
+
