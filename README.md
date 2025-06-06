@@ -1,1 +1,3 @@
 # AI-In-Medicine
+
+Work completed as part of the AI in Medicine course at the University of Nottingham, looking at how machine learning and artificial intelligence can be applied to real-world healthcare problems. As part of the course, I worked with medical datasets to develop predictive models, gaining experience in data preprocessing, feature selection, and model evaluation. I explored algorithms such as decision trees and support vector machines to classify patient outcomes, and applied performance metrics like accuracy, precision, and AUC to assess model effectiveness.
